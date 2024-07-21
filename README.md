@@ -12,8 +12,6 @@ Total waktu untuk oprec Assembly yang disediakan adalah 30 menit. Anda akan dibe
 
 Materi untuk programming Assembly akan berkisar pada menyusun algoritma sederhana untuk menyelesaikan permasalahan Case Study yang diberikan. 5 soal pertanyaan yang diberikan akan berkisar pada materi OAK (Organisasi Arsitektur Komputer), seperti hierarki memori, instruksi assembly, dll.
 
-[Oops Ceroboh Sekali Saya](./secrethint.exe)
-
 ## Pertanyaan?
 
 Jika ada pertanyaan silahkan tanya langsung di grup line. Good Luck :D
